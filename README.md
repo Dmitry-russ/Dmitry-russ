@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dmitry!
+- 👀 I’m interested in Python!
+- 🌱 I’m currently learning Django!
+- 📫 How to reach me: phone +7-912-675-77-49
